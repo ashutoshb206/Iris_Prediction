@@ -1,4 +1,5 @@
 # Iris_Prediction
+![image](https://github.com/user-attachments/assets/81baa43c-05e4-4384-a040-0179020a2051)
 
 This Project is thorugh application of machine learning with python programming. It focuses on IRIS flower classification using Machine Learning with scikit tools. Here some of algorithm are used that are some types of machine learning subparts algorithms of supervised and Unsupervised learning. Algorithm used for predicting and get accuracy are -
 
