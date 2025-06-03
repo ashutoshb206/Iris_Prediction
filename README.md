@@ -10,5 +10,5 @@ This Project is thorugh application of machine learning with python programming.
 6. train_test_split
 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/d1cf7986-419b-4861-8429-ac5716b3f384)
    
